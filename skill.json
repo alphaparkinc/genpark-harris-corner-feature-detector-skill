@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-harris-corner-feature-detector-skill",
+  "version": "1.0.0",
+  "description": "Harris corner and salient feature detector using spatial gradient autocorrelation matrix analysis.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
